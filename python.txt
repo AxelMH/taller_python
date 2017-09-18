@@ -11,30 +11,13 @@ usar gitflow
 
 cdm python para correrlo
 
-cadenas con comillas dobles se toman como objetos
-
 array.remove(x) //elimina la primera instancia de x que encuentre
 array.pop(i) //regresa y elimina del arreglo el elemento en la posición i
 //tuple es como arreglo estático
-arreglo=lista=[v1,v2,...]
-tupla=(v1,v2,...) o v1,v2,...
-diccionario={"key":"value",...}
+diccionario={"key":"value"}
 diccionario[key]=value
 del diccionario[key]
 se usa "and" en vez de "&&", "or" en vez de "||" y "not" en vez de "!"
 
 var=input("mensaje")
 print("mensaje")
-
-try except en vez de try catch
-# para comentar y """ para comentar """
-
-set(list)=lista sin valores repetidos
-#set es un tipo de dato y parece diccionario sin llaves
-
-if true:
-	print()
-elis false:
-	print()
-else:
-	print
